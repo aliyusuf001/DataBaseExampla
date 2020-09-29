@@ -117,34 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="Id.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="FirstName.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="LastName.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="PhoneNumber.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="Address.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="Id.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="FirstName.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="LastName.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="PhoneNumber.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="Address.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
+  <data name="Target" xml:space="preserve">
+    <value>H4sIAAAAAAAEAM1XzW7jNhC+F+g7CDy1QNbMz6UN5F1k7aQIGifBKrv3sTS2iVKUSlKB/Ww99JH6Ch3q35Sd2NntotBFIme++eHMx9E/f/0dflinMnhGbUSmxuxsdMoCVHGWCLUcs8Iu3v3CPrz/8YfwOknXwZdG7sLJkaYyY7ayNr/k3MQrTMGMUhHrzGQLO4qzlEOS8fPT01/52RlHgmCEFQThp0JZkWL5QZ+TTMWY2wLkLEtQmnqddqISNbiHFE0OMY7ZFCx8BIPXa0hzCSP3zYIrKYB8iVAuWABKZRYseXr52WBkdaaWUU4LIJ82OZLcAqTBOoLLTvzQYE7PXTC8U2yg4sLYLD0S8Oyizg731d+UY9Zmj/J3TXm2Gxd1mcMxm5QmULPAN3Y5kdoJDlNcHsqo0TwJvP2Tti6ofNxzEkwKaQuNY4WF1SBPgsdiLkX8O26esj9QjVUhZd9P8pT2thZo6VFnOWq7+YSL2vvbhAV8W4/7iq1aT6eK61bZi3MW3JNxmEtsy6CXg8hmGn9DhRosJo9gLWrlMLBM5MC6Z+tGaGPda2OSio86iQUzWN+hWtrVmNErC27EGpNmpXbjsxLUeKRkdYGvWbqD72TocZUpvC/SuauZ/9jWVZJoNOYb2wl51wXD3iDusSDowBsf8pwqtayG6dxt4truaBYilrpfTG1zO7IKPELr9R0F13lTEdao68ldbrcOdqzIK1ps6JPv4c9wBnlOGezxab0SRBWZTt5Fx3NMWmHw2Oygmtbb1hJ1FCzR2yXT5GnZLo5N5uDOcJKkA7Gdx7En1Y1JP+M+r3QH0Gi490pr1/XSHZCH1CX0hmJMiSPKcLH1qMe3A9XydgMJegdfTTJZpGof572k3WOgPkhv+XCsjmP6UN3q4UhbJNIH29o4HK8lij5WuzjECbl3Tn5J8EFNeLeMX2QvNaov0lpvG9ZrzLBuktenn0HXVCIsoAQ9i8R1TLQxFtOqcKM/5UQKircTmIESCzS2uogZjR/n3vj0/xlluDGJPHCe+e7ThHBZfXVeGAwbRw4Q6hl0vAL9Uwrrn/twbxkSvgpsxyDwVXjeZX8E1nEX+vCiOeymfvGirtpuzJJ5RgFUjvau+Dfe40MaCHn/VymcohHLDsL9OCmMXX91oI3MrVpkTcopur5HjYh3IjO0kFCSrrQVC4gtbcd0QuUM9gVkQSLXdPzJrXoobF7YK2MwncutqTjkL9svh5Vtn8OH3H2ZbxECuSkoBHxQHwshk9bvm2Hz7YNw9VJ3NHlFMyjBLTct0j11wWFAdfqmmKNyfPCEbqKwaB5UBM/4Ft9o6rzDJcSbhs33g7x+ENtpD6cClhpSU2N0+u73n7v///f/Akrb0YwxEAAA</value>
+  </data>
+  <data name="DefaultSchema" xml:space="preserve">
+    <value>dbo</value>
+  </data>
 </root>
